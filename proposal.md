@@ -19,7 +19,7 @@ Enter name and email address of each team member (3 or 4 members) here:
 
 Write a 1-2 paragraph summary of your project. Your summary should describe:
 
-* What topic in high speed networks is your project related to?
+* What topic in high speed networks is your project related to? (Your topic should be *substantially* different from the prepared labs you've already completed - "Performance of different TCP variants over networks with a high BDP" is not an acceptable topic, for example.)
 
 * What is the goal of your experiment? Make sure to follow best practices
 for setting an experiment goal, as we've discussed in class.
