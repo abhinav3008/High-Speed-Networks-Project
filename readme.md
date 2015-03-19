@@ -3,7 +3,7 @@ Project Proposal for EL6383 - Submission Instructions
 
 Project proposal submissions are due 29 March 2015.
 
-The project *submission* is due 17 April 2015.
+The *final project submission* is due 17 April 2015. After 17 April, you will be assigned to reproduce another students' experiment.
 
 1. One team member should fork this repository. Your fork may be private or public (it's up to you), and you can name the repository whatever you want.
 2. In your repository settings, add all team members as admin users, and add **ffund** as an admin user.
