@@ -1,0 +1,10 @@
+icmp_req=1=time=270
+icmp_req=2=time=205
+icmp_req=3=time=202
+icmp_req=4=time=196
+icmp_req=5=time=211
+icmp_req=6=time=203
+icmp_req=7=time=192
+icmp_req=8=time=191
+icmp_req=9=time=187
+icmp_req=10=time=216
