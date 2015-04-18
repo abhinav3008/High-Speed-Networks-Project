@@ -22,10 +22,18 @@
 	https://bitbucket.org/ak5011/el6383-project/src/5d71d97a1d425c0675acf5cd7bf1805d4f5d6db2/submit/rtt_h1_h2.png?at=master        
 4. Instructions for reproducing your results in three ways:
     a. Raw data -> Results:
-            For data analysiyou should be able to give the ping output as readable input to rstudio. For that there is a .sh file called "process.sh" in the submit folder. 
-            you have to use this to make the ping output readable and that is dot by "bash process.sh "filename.txt". This generates another file with your filename. You 
+            For data analysis you should be able to give the ping output as readable input to rstudio. For that there is a .sh file called "process.sh" in the submit folder. 
+            you have to use this to make the ping output readable and that is done by "bash process.sh "filename.txt"". This generates another file with your filename. You 
             should give this file as an input to rstudio to plot and the plot is a simple line plot.
     b. Existing experiment setup -> Data: 
+            For the reviewers to login the username is "guest" and the password is "guest". For our topology we have five VM's 
+            i. Full name: controller (POX controller)
+            ii. Full name: ovs (Open flow Switch)
+            iii. Full name: host1 (host 1)
+            iv. FULL name: host2 (host 2)
+            v. FULL name: host3 (host 3)
+            These are the names of the nodes that we ahve given and the other details like Room N.o, work p.h, home p.h, and other are 10.914-707-9825
+            000-000-0000, 111-111-1111 respectively.
     c. Set up experiment:
         i.  Create two slices on GENI Portal.
         ii. Reserve resources on both slices one with controller and other with three hosts connected to a switch.
