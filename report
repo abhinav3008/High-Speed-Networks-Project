@@ -21,7 +21,10 @@
    submit folder. The following link shows the RTT distribution time of the ping data between host1 and host2.
 	https://bitbucket.org/ak5011/el6383-project/src/5d71d97a1d425c0675acf5cd7bf1805d4f5d6db2/submit/rtt_h1_h2.png?at=master        
 4. Instructions for reproducing your results in three ways:
-    a. Raw data -> Results: 
+    a. Raw data -> Results:
+            For data analysiyou should be able to give the ping output as readable input to rstudio. For that there is a .sh file called "process.sh" in the submit folder. 
+            you have to use this to make the ping output readable and that is dot by "bash process.sh "filename.txt". This generates another file with your filename. You 
+            should give this file as an input to rstudio to plot and the plot is a simple line plot.
     b. Existing experiment setup -> Data: 
     c. Set up experiment:
         i.  Create two slices on GENI Portal.
