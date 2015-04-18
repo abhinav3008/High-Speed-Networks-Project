@@ -33,7 +33,7 @@
             iv. FULL name: host2 (host 2)
             v. FULL name: host3 (host 3)
             These are the names of the nodes that we ahve given and the other details like Room N.o, work p.h, home p.h, and other are 10.914-707-9825
-            000-000-0000, 111-111-1111 respectively.
+            000-000-0000, 111-111-1111 respectively. These are same for everynode
     c. Set up experiment:
         i.  Create two slices on GENI Portal.
         ii. Reserve resources on both slices one with controller and other with three hosts connected to a switch.
